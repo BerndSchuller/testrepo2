@@ -2,3 +2,6 @@
 	path = testrepo1
 	url = https://github.com/BerndSchuller/testrepo1.git
 
+[submodule "testrepo1-relative"]
+	path = testrepo1-relative
+	url = ../testrepo1.git
