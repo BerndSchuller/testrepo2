@@ -1,5 +1,4 @@
 [submodule "testrepo1"]
 	path = testrepo1
 	url = https://github.com/BerndSchuller/testrepo1.git
-	branch = v1
 
